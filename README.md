@@ -25,6 +25,21 @@ This chapter covers creating your first project in PlatformIO and creating your 
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
+## Chapter 4: Binary Numbers
+This chapter covers the basics of binary numbers and their general application for embedded systems.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
+## Chapter 5: Hexadecimal Numbers
+This chapter covers the basics of hexadecimal numbers and their general application for embedded systems.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
+## Chapter 6: Advanced OPS
+This chapter covers the advanced operations using hex and binary in addition to memory manipulation and bit-level operations for the RISC-V ESP32-C3.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
 ## IN DEVELOPMENT
 
 ## License

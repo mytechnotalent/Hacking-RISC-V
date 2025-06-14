@@ -55,7 +55,5 @@ This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
-## IN DEVELOPMENT
-
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)

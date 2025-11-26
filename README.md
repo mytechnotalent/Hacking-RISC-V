@@ -7,8 +7,11 @@
 # Hacking RISC-V
 A FREE comprehensive step-by-step embedded RISC-V hacking tutorial covering RISC-V Embedded Software Development to Reverse Engineering.
 
-## FREE Book
-[Download](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf)
+<br>
+
+# FREE Book [Download](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf)
+
+<br>
 
 ## Chapter 1: Why RISC-V
 This chapter covers the "why" of learning RISC-V hacking as we discuss the rise of RISC-V and introduce our ESP32-C3 dev board.
@@ -55,5 +58,7 @@ This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
-## License
+<br>
+
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
